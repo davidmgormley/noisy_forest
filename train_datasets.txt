@@ -1,4 +1,6 @@
-train_datasets
+
+
+train_datasets from pmlb
 1028_SWD
 228_elusage
 229_pwLinear
@@ -37,3 +39,40 @@ train_datasets
 678_visualizing_environmental
 706_sleuth_case1202
 712_chscase_geyser1
+
+train datasets from openml CTR23
+QSAR fish toxicity
+- https://www.openml.org/search?type=task&id=361621&collections.id=353
+Abalone
+- https://www.openml.org/search?type=task&id=361234&collections.id=353
+airfoil self noise
+- https://www.openml.org/search?type=task&id=361235&collections.id=353
+auction verification
+- https://www.openml.org/search?type=task&id=361236&collections.id=353
+cars
+- https://www.openml.org/search?type=task&id=361622&collections.id=353
+concrete compressive strength
+- https://www.openml.org/search?type=task&id=361237&collections.id=353
+cpu activity
+- https://www.openml.org/search?type=task&id=361256&collections.id=353
+energy efficiency
+- https://www.openml.org/search?type=task&id=361617&collections.id=353
+forest fires
+- https://www.openml.org/search?type=task&id=361618&collections.id=353
+geographical origin of music
+- https://www.openml.org/search?type=task&id=361243&collections.id=353
+grid stability
+- https://www.openml.org/search?type=task&id=361251&collections.id=353
+kin8nm
+- https://www.openml.org/search?type=task&id=361258&collections.id=353
+pumadyn32nh
+- https://www.openml.org/search?type=task&id=361259&collections.id=353
+socmob
+- https://www.openml.org/search?type=task&id=361264&collections.id=353
+space ga
+- https://www.openml.org/search?type=task&id=361623&collections.id=353
+Moneyball
+- https://www.openml.org/search?type=task&id=361616&collections.id=353
+Por
+- https://www.openml.org/search?type=task&id=361619&collections.id=353
+
