@@ -31,7 +31,11 @@ This project evaluates Noisy Forest: a random forest variant that injects noise 
   
       - C)  Next, I evaluated my model on the set of training datasets from PMLB and committed the final train/test splits for training data and the final hyperparameter grids to github
   
-      - D) Lastly, I will evaluate my model on the holdout datasets and report my findings. The model never saw these holdout sets during the training process. 
+      - D) Lastly, I will evaluate my model on the holdout datasets and report my findings. The model never saw these holdout sets during the training process.
+
+
+3) Experimental Protocol
+
 
 
   
