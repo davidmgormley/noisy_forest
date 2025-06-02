@@ -8,7 +8,9 @@ This project evaluates Noisy Forest: a random forest variant that injects noise 
 - Dataset Criteria
       - I evaluated the models on regression datasets that are less than 10,000 observations
       - I defined this criteria because I found that my model performed particularly well on datasets less than 10,000 observations while experimenting with the OpenML-CTR23 datasets. This threshold was defined prior to the creation of training and holdout datasets from the Penn Machine Learning Benchmarks (see script from commit 2aca6cfbdc79e5f6277b1f223657b15ac9601301).
-      - Any findings can only be generalized to regression datasets with less than 10,000 observations. 
+  
+      - Any findings can only be generalized to regression datasets with less than 10,000 observations.
+  
 - Training datasets and test datasets
       - First, I tuned the Noisy Forest hyperparameters on the OpenML-CTR23 datasets (https://www.openml.org/search?type=study&sort=tasks_included&study_type=task&id=353).
               - Located in datasets/train_datasets_openml-CTR_23
